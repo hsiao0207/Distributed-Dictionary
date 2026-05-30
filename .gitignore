@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Java compiled class files
+*.class
+**/*.class
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Executables and build artifacts
+*.jar
+!lib/**/*.jar
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+out/
+bin/
