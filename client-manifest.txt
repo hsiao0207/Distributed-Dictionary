@@ -1,0 +1,2 @@
+Main-Class: src.Client.DictionaryClientGUI
+Class-Path: . lib/gson-2.11.0.jar

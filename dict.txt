@@ -1,0 +1,16 @@
+banana:A yellow curved fruit,health for human
+coffee bean:a bean can make coffee
+candy:unhealthy food,yummy funny food
+kangaroo:cute animal
+distributed:shared or spread out among several locations,a type of computing system
+lamp:make room lighter
+tissue:man use in night
+thread:a thin strand of cotton or nylon,the smallest unit of execution within a process
+iphone:phone of apple
+apple:a round fruit with red or green skin,a large technology company based in California,A brand of computer
+protocol:a set of rules governing the exchange of data,the official procedure or system of rules
+java:a popular high-level programming language,a large island in Indonesia
+phone:technology
+coffee:necessary good for student
+socket:an electrical device receiving a plug,an endpoint for communication between two machines
+wombat:cute animal
